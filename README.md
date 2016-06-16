@@ -1,2 +1,2 @@
-# minsun.github.com
+# minsun.github.io
 minsun pages
